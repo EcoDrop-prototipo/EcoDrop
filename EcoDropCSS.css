@@ -7,7 +7,7 @@ text-decoration: none;
 }
 
 body {
-    background-color: lightgreen;
+    background-image: url('EcoDropFondo.png');
     text-align: center;
     h1 {
          font-size: 50px;
